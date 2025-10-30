@@ -1,0 +1,1 @@
+This is an electron app which packages the Frigate NVR PWA (Portable Web App), into a standalone desktop style app, it also adds functionality missing from PWA installs like a tray icon, isolation from the main web-browser and more, you just need to set a server ip, right click on tray icon - settings - serverip, restart app.
